@@ -289,10 +289,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('Update Channel', url='https://t.me/KGN_BOTS'),
-                    InlineKeyboardButton('Source Code', url='https://github.com/KGN_BOTS/Media-Search-bot')
+                    InlineKeyboardButton('Source Code', url='https://github.com/KGN-BOTS/Media-Search-bot')
                 ]
                 ]
-            await query.message.edit(text="Source Code : <a href='https://github.com/subinps/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="Source Code : <a href='https://github.com/KGN-BOTS/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -314,7 +314,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('Update Channel', url='https://t.me/KGN_BOTS'),
-                        InlineKeyboardButton('latest movies', url='https://t.me/KGN_MOVIES')
+                        InlineKeyboardButton('Movie Channel', url='https://t.me/KGN_MOVIES')
                     ]
                     ]
                 
@@ -346,7 +346,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('Update Channel', url='https://t.me/KGN_BOTS'),
-                        InlineKeyboardButton('latest movies', url='https://t.me/KGN_MOVIES')
+                        InlineKeyboardButton('Movies Channel', url='https://t.me/KGN_MOVIES')
                     ]
                     ]
                 
