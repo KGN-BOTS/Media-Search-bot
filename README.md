@@ -84,7 +84,7 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](http://t.me/Its_Zahid_Official_bot)
 
 [Update Channel](https://t.me/KGN_BOTS)
 
