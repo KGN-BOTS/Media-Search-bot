@@ -46,7 +46,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
 ### Optional Variables
 * `OMDB_API_KEY`: OMBD_API_KEY to generate imdb poster for filter results.Get it from [omdbapi.com](http://www.omdbapi.com/apikey.aspx)
 * `CUSTOM_FILE_CAPTION` : A custom caption for your files. You can format it with file_name, file_size, file_caption.(supports html formating). Don't use '\n' for now.
-Example: `<b>Join [XTZ Bots](https://t.me/subin_works) for more useful bots</b>
+Example: `<b>Join [KGN BOTS](https://t.me/KGN_BOTS) for more useful bots</b>
 <code>{file_name}</code>
 Size{file_size}
 {file_caption}.`
@@ -80,13 +80,13 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* Original [Repo](https://github.com/KGN-BOTS/Media-Search-bot)
 
 
 ## Support
 Contact Me On [Telegram](https://t.me/subinps_bot)
 
-[Update Channel](https://t.me/subin_works)
+[Update Channel](https://t.me/KGN_BOTS)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
