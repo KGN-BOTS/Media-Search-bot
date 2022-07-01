@@ -292,7 +292,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Source Code', url='https://github.com/KGN-BOTS/Media-Search-bot')
                 ]
                 ]
-            await query.message.edit(text="Source Code : <a href='https://github.com/KGN-BOTS/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="Source Code : <a href='https://github.com/KGN-BOTS/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/KGN_BOTS'>KGN BOTS</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
